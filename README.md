@@ -1,5 +1,6 @@
-# CityBudgetVisualization
-A site/tool to visualize city budgets. Will start off initially with San Jose for the Code for San Jose group with the expectation that the code will generically apply to other cities that will be added on over time.
+# GovernmentBudgetVisualization
+
+A site/tool to visualize government budgets. Will start off initially with San Jose for the Code for San Jose group with the expectation that the code will generically apply to other cities/counties/states that will be added on over time.
 
 
 # Setup instructions for mac (WIP):
